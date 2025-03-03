@@ -18,7 +18,9 @@
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  background: rgb(238, 174, 202);
+  background: -moz-radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(55, 122, 179, 1) 96%);
+  background: -webkit-radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(55, 122, 179, 1) 96%);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(55, 122, 179, 1) 96%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca", endColorstr="#377ab3", GradientType=1);
 }
