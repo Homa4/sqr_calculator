@@ -3,13 +3,14 @@
 import React, { useState } from "react";
 import "./Calculator.css";
 import interactive_mode from "@/logic/interactive";
+import AddFileBtn from "./AddFileBtn";
 
 interface resultObj {
   x1: number;
   x2: number;
 }
 
-const Calculator: React.FC = () => {
+const Calculator: React.FunctionComponent = () => {
   const [a, setA] = useState("");
   const [b, setB] = useState("");
   const [c, setC] = useState("");
@@ -70,9 +71,12 @@ const Calculator: React.FC = () => {
           )}
         </div>
       </div>
-      <button className="calculate_btn" onClick={handleCalculateBtnClick}>
-        Press to calculate
-      </button>
+      <div className="buttons">
+        <button className="calculate_btn" onClick={handleCalculateBtnClick}>
+          Press to calculate
+        </button>
+        <AddFileBtn />
+      </div>
     </div>
   );
 };
