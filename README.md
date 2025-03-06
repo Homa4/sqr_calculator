@@ -78,3 +78,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 [4](public/img_README/4.png)
 [5](public/img_README/5.png)
 [6](public/img_README/6.png)
+[7](public/img_README/7.png)
