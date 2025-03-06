@@ -3,7 +3,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 # 📐 Square Equation Calculator
 
 ![Square Equation Solver](public/img_README/1.png)  
-_(Replace `path/to/image.png` with your actual image path)_
 
 ## 📖 About
 
