@@ -72,9 +72,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Example of program working
 
-[1](public/img_README/1.png)
-[2](public/img_README/2.png)
-[3](public/img_README/3.png)
-[4](public/img_README/4.png)
-[5](public/img_README/5.png)
-[6](public/img_README/6.png)
+![](public/img_README/1.png)
+![](public/img_README/2.png)
+![](public/img_README/3.png)
+![](public/img_README/4.png)
+![](public/img_README/5.png)
+![](public/img_README/6.png)
